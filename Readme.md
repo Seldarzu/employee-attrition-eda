@@ -1,5 +1,3 @@
-Tamam — sana direkt **GitHub’a koyabileceğin, akademik + profesyonel duran** bir README hazırlıyorum.
-Boş hype yok, net ne yaptığını anlatan bir README olacak. Kopyala-yapıştır hazır.
 
 ---
 
@@ -146,9 +144,3 @@ Focused on Data Science, AI and Predictive Analytics
 
 ---
 
-İstersen sana şimdi 2 upgrade daha yapabilirim:
-
-1️⃣ **“Senior data scientist vibe”** versiyonu (daha research paper gibi duran README)
-2️⃣ Recruiter’lar bakınca etkilensin diye **GitHub profil vitrini uyumlu versiyon** (badges + metrics + charts preview)
-
-Hangisini istiyorsun, direkt onun üstünden upgrade edelim.
